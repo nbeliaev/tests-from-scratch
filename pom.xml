@@ -12,6 +12,7 @@
         <module>tdd-by-example</module>
         <module>intro-junit5</module>
         <module>testing-java-junit5</module>
+        <module>testing-spring</module>
     </modules>
 
     <properties>
